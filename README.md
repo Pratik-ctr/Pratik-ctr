@@ -1,10 +1,12 @@
 <div align="center">
 
-# 📊 Pratik Patil
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋+I'm+Pratik+Patil;Full+Stack+Developer;Data+Engineer;Data+Analyst;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Building+Scalable+Software+Solutions" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Engineer;Business+Intelligence+Developer;PySpark+%7C+Databricks+%7C+Power+BI;Transforming+Data+Into+Insights" />
+<br>
 
-### 🚀 Data Analyst | Data Engineer | Full Stack Developer
+# 🚀 Pratik Patil
+
+### 💻 Full Stack Developer | 📊 Data Analyst | ⚡ Data Engineer
 
 <img src="https://komarev.com/ghpvc/?username=Pratik-ctr&style=for-the-badge&color=blueviolet"/>
 
@@ -12,75 +14,97 @@
 
 ---
 
-# 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%">
+
+## 🧑‍💻 About Me
+
+🎓 Final Year B.Tech Computer Engineering Student
+
+💻 MERN Stack Developer
+
+📊 Data Analyst skilled in SQL & Power BI
+
+⚡ Data Engineer with Databricks & PySpark
+
+☕ Java Developer
+
+🤖 AI & Cybersecurity Enthusiast
+
+🚀 Building real-world products and scalable data solutions
+
+🌱 Currently learning System Design & Cloud Technologies
+
+🎯 Seeking Software Engineer / Data Engineer Opportunities
+
+</td>
+
+<td width="45%">
 
 ```python
 class PratikPatil:
 
-    role = "Data Analyst & Data Engineer"
+    role = [
+        "Full Stack Developer",
+        "Data Engineer",
+        "Data Analyst"
+    ]
+
+    languages = [
+        "Java",
+        "JavaScript",
+        "Python",
+        "SQL"
+    ]
 
     skills = [
-        "Python",
-        "SQL",
-        "PySpark",
+        "React",
+        "Node.js",
+        "MongoDB",
         "Power BI",
         "Databricks",
-        "AWS S3"
+        "PySpark"
     ]
 
-    interests = [
-        "Big Data",
-        "Analytics",
-        "Machine Learning",
-        "Business Intelligence"
-    ]
-
-    mission = "Transform raw data into business insights"
+    current_focus = (
+        "Building impactful products 🚀"
+    )
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Analytics Stack
+# ⚔️ Technical Skills
 
-### Languages
+## 💻 Software Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,sqlite,git,github,vscode,postman"/>
 
 </p>
 
-### Data Engineering
+---
+
+## 📊 Data Analytics & Data Engineering
 
 <p align="center">
 
-🔹 PySpark
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-🔹 Databricks
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks"/>
 
-🔹 Delta Lake
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark"/>
 
-🔹 ETL Pipelines
+<img src="https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge"/>
 
-🔹 AWS S3
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 
-🔹 Data Warehousing
-
-</p>
-
-### Data Analytics
-
-<p align="center">
-
-📊 Power BI
-
-📈 Dashboard Development
-
-📉 Data Visualization
-
-📋 Business Intelligence
-
-📊 KPI Reporting
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
 
 </p>
 
@@ -88,71 +112,97 @@ class PratikPatil:
 
 # 🚀 Featured Projects
 
-| Project                          | Description                               |
-| -------------------------------- | ----------------------------------------- |
-| 🐋 DeFi Whale Analytics          | Blockchain Transaction Analytics Platform |
-| 📊 LinkedIn Job Market Analytics | Job Market Trend Dashboard                |
-| 🚀 Best Buy Data Migration       | Databricks + AWS Data Engineering Project |
-| 🤖 IPL Match Winner Predictor    | Machine Learning Prediction System        |
-| 🔐 SecureID AI                   | AI-Based Identity Verification            |
-| 🌐 Drive Assist                  | Full Stack Application                    |
+| Project                   | Description                           | Technology           |
+| ------------------------- | ------------------------------------- | -------------------- |
+| 🔐 SecureID AI            | AI + Blockchain Identity Verification | MERN + AI            |
+| 🚗 Drive Assist           | Roadside Assistance Platform          | MERN                 |
+| 💊 Pharma ERP             | Pharmacy ERP Solution                 | MERN                 |
+| 🐋 DeFi Whale Analytics   | Blockchain Data Analytics             | Databricks + PySpark |
+| 📊 LinkedIn Job Analytics | Job Market Analysis Dashboard         | Python + Power BI    |
+| 🍔 FoodTrendX             | AI Food Trend Prediction              | React Native + AI    |
+| 🛒 HashKart               | E-Commerce Application                | Java                 |
+| 🚘 Carnomia PDI           | Internship Industrial Project         | MERN                 |
 
 ---
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik-ctr&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-ctr&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 Current Focus
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pratik-ctr&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🥇 MERN Stack Developer Internship
+
+🚀 Developed Multiple Full Stack Applications
+
+📊 Built Data Engineering & Analytics Projects
+
+⚡ Experience with Databricks & PySpark
+
+🤖 AI & Machine Learning Projects
+
+🎯 Strong Problem Solving & Software Development Skills
+
+---
+
+# 🎯 Current Focus
+
+✅ Full Stack Development
 
 ✅ Data Engineering
 
-✅ PySpark
+✅ Data Analytics
 
-✅ Databricks
+✅ Artificial Intelligence
 
-✅ Power BI
+✅ System Design
 
-✅ Machine Learning
+✅ Cloud Technologies
 
-✅ Cloud Data Platforms
-
----
-
-# 🏆 Certifications & Learning
-
-📚 Data Engineering
-
-📚 Big Data Analytics
-
-📚 Machine Learning
-
-📚 Business Intelligence
-
-📚 Cloud Computing
+✅ Open Source Contributions
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-💼 LinkedIn : [LINKEDIN](https://www.linkedin.com/in/pratik-patil-654720264)
+<div align="center">
 
-📧 Email : patilpratikk26@gmail.com   
+<a href="[LINKEDIN_URL](https://www.linkedin.com/in/pratik-patil-654720264)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🌍 Portfolio : [YOUR_PORTFOLIO](https://pratik-portfolio-sigma-navy.vercel.app/)
+<a href="mailto: patilpratikk26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="[PORTFOLIO_URL](https://pratik-portfolio-sigma-navy.vercel.app/)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📊 Data is the new oil, but insights are the real fuel.
+## ⭐ "Transforming Ideas into Software, Data into Insights, and Challenges into Opportunities."
 
 </div>
