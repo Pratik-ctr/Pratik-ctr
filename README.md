@@ -1,149 +1,145 @@
 <div align="center">
 
-# 👋 Hey, I'm Pratik Patil
+# 🚀 Pratik Patil
 
-### 🚀 MERN Stack Developer • Java Developer • AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;Java+Developer;AI+Enthusiast;Building+Products+That+Matter" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Pratik-ctr&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+### 💻 MERN Stack Developer | Java Developer | AI Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-ctr&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+<table>
+<tr>
+<td width="50%">
 
-```javascript
-const pratik = {
-    education: "B.Tech Computer Engineering",
-    role: "Full Stack Developer",
-    location: "Pune, India",
-    
-    languages: ["Java", "JavaScript", "Python"],
+## 👨‍💻 About Me
 
-    frontend: ["React.js", "HTML", "CSS", "Tailwind CSS"],
+🎓 Final Year Computer Engineering Student
 
-    backend: ["Node.js", "Express.js"],
+🚀 Passionate about Full Stack Development
 
-    database: ["MongoDB", "SQLite", "MySQL"],
+🤖 Exploring AI & Cybersecurity
 
-    interests: [
-        "Artificial Intelligence",
-        "Cyber Security",
-        "System Design",
-        "Full Stack Development"
-    ],
+🏗 Building scalable software products
 
-    currentFocus: "Building impactful software products 🚀"
-};
+🌱 Currently learning System Design
+
+🎯 Goal: Software Engineer at a Product Company
+
+</td>
+
+<td width="50%">
+
+```java
+public class Pratik {
+
+   String role =
+      "Full Stack Developer";
+
+   String[] skills = {
+      "Java",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB"
+   };
+
+   String mission =
+      "Build impactful products";
+}
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚔️ Tech Stack
 
-### Programming Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+<img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,sqlite,git,github,vscode,postman"/>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge\&logo=tailwindcss)
-
-### Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔐 SecureID AI
-
-AI + Blockchain based Identity Verification System
-
-### 🚗 Drive Assist
-
-Roadside Assistance & Travel Companion Platform
-
-### 💊 Pharma ERP
-
-Complete ERP Management Solution
-
-### 🍔 FoodTrendX
-
-AI-Powered Food Trend Analytics Platform
-
-### 🛒 HashKart
-
-Java-Based E-Commerce Application
-
-### 🚘 Carnomia PDI
-
-Industrial Internship Project
+| Project         | Description                           | Tech         |
+| --------------- | ------------------------------------- | ------------ |
+| 🔐 SecureID AI  | AI + Blockchain Identity Verification | MERN + AI    |
+| 🚗 Drive Assist | Roadside Assistance Platform          | MERN         |
+| 💊 Pharma ERP   | Pharmacy Management ERP               | MERN         |
+| 🍔 FoodTrendX   | Food Analytics Platform               | React Native |
+| 🛒 HashKart     | E-Commerce Platform                   | Java         |
+| 🚘 Carnomia     | Internship Project                    | MERN         |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Developer Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik-ctr&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik-ctr&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-ctr&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-ctr&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Pratik-ctr&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
-* ✅ Become Full Stack Software Engineer
-* ✅ Master MERN Stack
-* ✅ Learn System Design
-* ✅ Build SaaS Products
-* ✅ Contribute to Open Source
-* ✅ Crack Product-Based Company Interviews
+🥇 MERN Stack Internship Experience
+
+🚀 Built Multiple Full Stack Applications
+
+📚 Computer Engineering Student
+
+💡 Startup & Product Development Enthusiast
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/pratik-patil-654720264">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:patilpratikk26@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="[PORTFOLIO](https://pratik-portfolio-sigma-navy.vercel.app/)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-💼 LinkedIn : www.linkedin.com/in/pratik-patil-654720264
-
-📧 Email : patilpratikk26@gmail.com
-
-🌍 Portfolio : [YOUR_PORTFOLIO](https://pratik-portfolio-sigma-navy.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ "First, solve the problem. Then, write the code."
+## ⭐ "Code • Build • Learn • Repeat"
 
 </div>
