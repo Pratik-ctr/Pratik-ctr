@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Final Year B.Tech Computer Engineering Student
+🎓 B.Tech Graduate in Computer Engineering
 
 💻 MERN Stack Developer
 
