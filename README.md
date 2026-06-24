@@ -1,76 +1,77 @@
-<h1 align="center">Hi 👋, I'm Pratik Patil</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Developer;AI+Enthusiast;Full+Stack+Software+Engineer;Building+Innovative+Projects" />
-</p>
+# 👋 Hey, I'm Pratik Patil
 
-<h3 align="center">🚀 MERN Stack Developer | Java Developer | AI Enthusiast</h3>
+### 🚀 MERN Stack Developer • Java Developer • AI Enthusiast
 
-<p align="center">
-Building scalable web applications, AI-powered solutions, and real-world software products.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratik-ctr&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-ctr&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-🔹 Final Year Computer Engineering Student
+```javascript
+const pratik = {
+    education: "B.Tech Computer Engineering",
+    role: "Full Stack Developer",
+    location: "Pune, India",
+    
+    languages: ["Java", "JavaScript", "Python"],
 
-🔹 MERN Stack Developer with hands-on project experience
+    frontend: ["React.js", "HTML", "CSS", "Tailwind CSS"],
 
-🔹 Passionate about AI, Cybersecurity & Full-Stack Development
+    backend: ["Node.js", "Express.js"],
 
-🔹 Internship Experience in Industrial MERN Projects
+    database: ["MongoDB", "SQLite", "MySQL"],
 
-🔹 Building startup-focused software products
+    interests: [
+        "Artificial Intelligence",
+        "Cyber Security",
+        "System Design",
+        "Full Stack Development"
+    ],
 
-🔹 Open to Software Developer Opportunities
+    currentFocus: "Building impactful software products 🚀"
+};
+```
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Arsenal
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge\&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge\&logo=tailwindcss)
 
-### Backend
+### Backend & Database
 
-![NodeJS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge\&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge\&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge\&logo=sqlite)
-
-### Tools
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge\&logo=postman)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔐 SecureID AI
 
-AI + Blockchain Based Identity Verification System
+AI + Blockchain based Identity Verification System
 
 ### 🚗 Drive Assist
 
@@ -78,61 +79,71 @@ Roadside Assistance & Travel Companion Platform
 
 ### 💊 Pharma ERP
 
-Complete ERP Solution for Pharmacy Management
+Complete ERP Management Solution
 
 ### 🍔 FoodTrendX
 
-AI-Powered Food Trend Analysis Platform
+AI-Powered Food Trend Analytics Platform
 
 ### 🛒 HashKart
 
-Java-Based E-Commerce Platform
+Java-Based E-Commerce Application
 
-### 🚘 Carnomia PDI System
+### 🚘 Carnomia PDI
 
 Industrial Internship Project
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik-ctr&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-ctr&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik-ctr&show_icons=true&theme=tokyonight"/>
 
-# 🏆 GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-ctr&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Pratik-ctr&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 🔥 Contribution Streak
 
-✅ Advanced MERN Stack
+<div align="center">
 
-✅ System Design
+<img src="https://streak-stats.demolab.com?user=Pratik-ctr&theme=tokyonight"/>
 
-✅ AI Integration
-
-✅ Open Source Contributions
-
-✅ Software Development Career
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 2026 Goals
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
-💼 LinkedIn: Your LinkedIn URL
-
-🌍 Portfolio: Your Portfolio URL
+* ✅ Become Full Stack Software Engineer
+* ✅ Master MERN Stack
+* ✅ Learn System Design
+* ✅ Build SaaS Products
+* ✅ Contribute to Open Source
+* ✅ Crack Product-Based Company Interviews
 
 ---
 
-<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
+# 🌐 Let's Connect
+
+<div align="center">
+
+💼 LinkedIn : www.linkedin.com/in/pratik-patil-654720264
+
+📧 Email : patilpratikk26@gmail.com
+
+🌍 Portfolio : [YOUR_PORTFOLIO](https://pratik-portfolio-sigma-navy.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+</div>
