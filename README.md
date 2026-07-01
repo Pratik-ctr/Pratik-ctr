@@ -137,15 +137,6 @@ class PratikPatil:
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pratik-ctr&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🏆 Achievements
 
